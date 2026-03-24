@@ -128,7 +128,6 @@ passion     : Robotics • AgriTech • STEAM Education • Legacy-driven Impact
   <img src="https://raw.githubusercontent.com/tasnimul-hasan-taohid/tasnimul-hasan-taohid/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
-> ⚙️ *To enable the snake animation, add the [GitHub Actions workflow](https://github.com/Platane/snk) to your profile repo.*
 
 ---
 
