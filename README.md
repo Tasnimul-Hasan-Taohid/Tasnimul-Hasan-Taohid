@@ -21,7 +21,7 @@
   <a href="https://bortonibd.com">
     <img src="https://img.shields.io/badge/Bortoni-2ecc71?style=for-the-badge&logo=leaflet&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=tasnimul-hasan-taohid&style=for-the-badge&color=ffffff&label=PROFILE+VIEWS"/>
+ <img src="https://komarev.com/ghpvc/?username=tasnimul-hasan-taohid&style=for-the-badge&color=1a1a2e&label=PROFILE+VIEWS"/>
 </p>
 
 </div>
