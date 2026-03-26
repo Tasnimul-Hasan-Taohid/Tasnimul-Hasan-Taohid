@@ -44,7 +44,7 @@ passion     : Robotics • AgriTech • STEAM Education • Legacy-driven Impact
 
 ---
 
-## 🏆 Recognition & Awards (20+ total)
+## 🏆 Recognition & Awards (40+)
 
 <div align="center">
 
@@ -151,15 +151,6 @@ passion     : Robotics • AgriTech • STEAM Education • Legacy-driven Impact
 
 ---
 
-## 📦 Featured Projects
-
-<div align="center">
-
-[![Bortoni](https://github-readme-stats.vercel.app/api/pin/?username=tasnimul-hasan-taohid&repo=bortoni&theme=midnight-purple&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/tasnimul-hasan-taohid/bortoni)
-[![SlapBook](https://github-readme-stats.vercel.app/api/pin/?username=tasnimul-hasan-taohid&repo=SlapBook&theme=midnight-purple&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/tasnimul-hasan-taohid/SlapBook)
-[![truerng](https://github-readme-stats.vercel.app/api/pin/?username=tasnimul-hasan-taohid&repo=truerng&theme=midnight-purple&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/tasnimul-hasan-taohid/truerng)
-
-</div>
 
 ---
 
