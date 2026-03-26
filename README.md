@@ -1,27 +1,27 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:fff7ed&height=180&section=header&text=Tasnimul%20Hasan%20Taohid&fontSize=44&fontColor=ea580c&fontAlignY=45&desc=Founder%20%7C%20Builder%20%7C%20Innovator&descAlignY=68&descColor=78716c&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Tasnimul%20Hasan%20Taohid&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Founder%20%7C%20Builder%20%7C%20Innovator&descAlignY=58&descColor=a0aec0&animation=fadeIn&fontFamily=SF+Pro+Display" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://github.com/tasnimul-hasan-taohid">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=20&duration=3000&pause=1000&color=EA580C&center=true&vCenter=true&width=650&lines=Founder+%26+CEO+of+Bortoni+%F0%9F%8C%B1;Erasmus%2B+Scholar+%40+UCAM%2C+Spain+%F0%9F%87%AA%F0%9F%87%B8;Robotics+%26+AgriTech+Innovator+%F0%9F%A4%96;Building+a+legacy+from+Rajshahi%2C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&width=650&lines=Founder+%26+CEO+of+Bortoni+%F0%9F%8C%B1;Erasmus%2B+Scholar+%40+UCAM%2C+Spain+%F0%9F%87%AA%F0%9F%87%B8;Robotics+%26+AgriTech+Innovator+%F0%9F%A4%96;Building+a+legacy+from+Rajshahi%2C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
+<!-- PROFILE VIEWS & SOCIAL -->
 <p>
   <a href="https://linkedin.com/in/tasnimul-hasan-taohid">
-    <img src="https://img.shields.io/badge/LinkedIn-ea580c?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:tasnimul.bortoni@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ea580c?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://bortonibd.com">
-    <img src="https://img.shields.io/badge/Bortoni-ea580c?style=for-the-badge&logo=leaflet&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Bortoni-2ecc71?style=for-the-badge&logo=leaflet&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=tasnimul-hasan-taohid&style=for-the-badge&color=ea580c&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=tasnimul-hasan-taohid&style=for-the-badge&color=ffffff&label=PROFILE+VIEWS"/>
 </p>
 
 </div>
@@ -83,23 +83,23 @@ passion     : Robotics • AgriTech • STEAM Education • Legacy-driven Impact
 
 **Embedded & Hardware**
 
-![C](https://img.shields.io/badge/C-ea580c?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-ea580c?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-ea580c?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-ea580c?style=for-the-badge&logo=espressif&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 **Software & Tools**
 
-![Python](https://img.shields.io/badge/Python-ea580c?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ea580c?style=for-the-badge&logo=javascript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-ea580c?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-ea580c?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-ea580c?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 **Platforms & Cloud**
 
-![Linux](https://img.shields.io/badge/Linux-ea580c?style=for-the-badge&logo=linux&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-ea580c?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 </div>
 
@@ -108,16 +108,16 @@ passion     : Robotics • AgriTech • STEAM Education • Legacy-driven Impact
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tasnimul-hasan-taohid&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=ea580c&icon_color=ea580c&text_color=44403c&bg_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasnimul-hasan-taohid&layout=compact&langs_count=7&hide_border=true&title_color=ea580c&text_color=44403c&bg_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tasnimul-hasan-taohid&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasnimul-hasan-taohid&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasnimul-hasan-taohid&hide_border=true&background=ffffff&ring=ea580c&fire=fb923c&currStreakLabel=ea580c&sideLabels=78716c&dates=78716c&stroke=fed7aa" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasnimul-hasan-taohid&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tasnimul-hasan-taohid&theme=flat&no-frame=true&no-bg=false&column=7&title_color=ea580c" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=tasnimul-hasan-taohid&theme=darkhub&no-frame=true&no-bg=true&column=7&title_color=ffffff" alt="Trophies"/>
 </div>
 
 ---
@@ -130,13 +130,34 @@ passion     : Robotics • AgriTech • STEAM Education • Legacy-driven Impact
 
 ---
 
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tasnimul-hasan-taohid&bg_color=0d1117&color=ffffff&line=ffffff&point=2ecc71&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+---
+
+## 🧠 Currently Learning
+
+<div align="center">
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-▓▓▓▓▓▓▓░░░-white?style=flat-square&labelColor=0d1117&color=0d1117)
+![Swift & macOS Dev](https://img.shields.io/badge/Swift%20%26%20macOS%20Dev-▓▓▓▓▓▓░░░░-white?style=flat-square&labelColor=0d1117&color=0d1117)
+![AgriTech IoT Systems](https://img.shields.io/badge/AgriTech%20IoT-▓▓▓▓▓▓▓▓░░-white?style=flat-square&labelColor=0d1117&color=0d1117)
+![Business & Innovation](https://img.shields.io/badge/Business%20%26%20Innovation-▓▓▓▓▓▓▓▓▓░-white?style=flat-square&labelColor=0d1117&color=0d1117)
+
+</div>
+
+---
+
 ## 📦 Featured Projects
 
 <div align="center">
 
-[![Bortoni](https://github-readme-stats.vercel.app/api/pin/?username=tasnimul-hasan-taohid&repo=bortoni&hide_border=true&title_color=ea580c&text_color=44403c&icon_color=ea580c&bg_color=fff7ed)](https://github.com/tasnimul-hasan-taohid/bortoni)
-[![SlapBook](https://github-readme-stats.vercel.app/api/pin/?username=tasnimul-hasan-taohid&repo=SlapBook&hide_border=true&title_color=ea580c&text_color=44403c&icon_color=ea580c&bg_color=fff7ed)](https://github.com/tasnimul-hasan-taohid/SlapBook)
-[![truerng](https://github-readme-stats.vercel.app/api/pin/?username=tasnimul-hasan-taohid&repo=truerng&hide_border=true&title_color=ea580c&text_color=44403c&icon_color=ea580c&bg_color=fff7ed)](https://github.com/tasnimul-hasan-taohid/truerng)
+[![Bortoni](https://github-readme-stats.vercel.app/api/pin/?username=tasnimul-hasan-taohid&repo=bortoni&theme=midnight-purple&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/tasnimul-hasan-taohid/bortoni)
+[![SlapBook](https://github-readme-stats.vercel.app/api/pin/?username=tasnimul-hasan-taohid&repo=SlapBook&theme=midnight-purple&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/tasnimul-hasan-taohid/SlapBook)
+[![truerng](https://github-readme-stats.vercel.app/api/pin/?username=tasnimul-hasan-taohid&repo=truerng&theme=midnight-purple&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/tasnimul-hasan-taohid/truerng)
 
 </div>
 
@@ -146,6 +167,6 @@ passion     : Robotics • AgriTech • STEAM Education • Legacy-driven Impact
 
 > *"I don't want to be remembered for the money I made. I want to be remembered for what I built."*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fff7ed,100:ffffff&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
