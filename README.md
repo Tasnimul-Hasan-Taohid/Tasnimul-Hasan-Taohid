@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Tasnimul%20Hasan%20Taohid&fontSize=42&fontColor=e2b96f&fontAlignY=38&desc=Founder%20%7C%20Builder%20%7C%20Innovator&descAlignY=58&descColor=a0aec0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Tasnimul%20Hasan%20Taohid&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Founder%20%7C%20Builder%20%7C%20Innovator&descAlignY=58&descColor=a0aec0&animation=fadeIn&fontFamily=SF+Pro+Display" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://github.com/tasnimul-hasan-taohid">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=E2B96F&center=true&vCenter=true&multiline=false&width=650&lines=Founder+%26+CEO+of+Bortoni+%F0%9F%8C%B1;Erasmus%2B+Scholar+%40+UCAM%2C+Spain+%F0%9F%87%AA%F0%9F%87%B8;Robotics+%26+AgriTech+Innovator+%F0%9F%A4%96;Building+a+legacy+from+Rajshahi%2C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&width=650&lines=Founder+%26+CEO+of+Bortoni+%F0%9F%8C%B1;Erasmus%2B+Scholar+%40+UCAM%2C+Spain+%F0%9F%87%AA%F0%9F%87%B8;Robotics+%26+AgriTech+Innovator+%F0%9F%A4%96;Building+a+legacy+from+Rajshahi%2C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,7 +21,7 @@
   <a href="https://bortonibd.com">
     <img src="https://img.shields.io/badge/Bortoni-2ecc71?style=for-the-badge&logo=leaflet&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=tasnimul-hasan-taohid&style=for-the-badge&color=e2b96f&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=tasnimul-hasan-taohid&style=for-the-badge&color=ffffff&label=PROFILE+VIEWS"/>
 </p>
 
 </div>
@@ -44,7 +44,7 @@ passion     : Robotics • AgriTech • STEAM Education • Legacy-driven Impact
 
 ---
 
-## 🏆 Recognition & Awards (20+ total)
+## 🏆 Recognition & Awards (40+)
 
 <div align="center">
 
@@ -108,16 +108,16 @@ passion     : Robotics • AgriTech • STEAM Education • Legacy-driven Impact
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tasnimul-hasan-taohid&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&title_color=e2b96f&icon_color=e2b96f&text_color=c9d1d9&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasnimul-hasan-taohid&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true&title_color=e2b96f&text_color=c9d1d9&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tasnimul-hasan-taohid&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasnimul-hasan-taohid&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasnimul-hasan-taohid&theme=dark&hide_border=true&background=0d1117&ring=e2b96f&fire=e2b96f&currStreakLabel=e2b96f" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasnimul-hasan-taohid&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tasnimul-hasan-taohid&theme=darkhub&no-frame=true&no-bg=true&column=7&title_color=e2b96f" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=tasnimul-hasan-taohid&theme=darkhub&no-frame=true&no-bg=true&column=7&title_color=ffffff" alt="Trophies"/>
 </div>
 
 ---
@@ -128,18 +128,29 @@ passion     : Robotics • AgriTech • STEAM Education • Legacy-driven Impact
   <img src="https://raw.githubusercontent.com/tasnimul-hasan-taohid/tasnimul-hasan-taohid/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tasnimul-hasan-taohid&bg_color=0d1117&color=ffffff&line=ffffff&point=2ecc71&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
 
 ---
 
-## 📦 Featured Projects
+## 🧠 Currently Learning
 
 <div align="center">
 
-[![Bortoni](https://github-readme-stats.vercel.app/api/pin/?username=tasnimul-hasan-taohid&repo=bortoni&theme=midnight-purple&hide_border=true&title_color=e2b96f&text_color=c9d1d9&bg_color=0d1117)](https://github.com/tasnimul-hasan-taohid/bortoni)
-[![SlapBook](https://github-readme-stats.vercel.app/api/pin/?username=tasnimul-hasan-taohid&repo=SlapBook&theme=midnight-purple&hide_border=true&title_color=e2b96f&text_color=c9d1d9&bg_color=0d1117)](https://github.com/tasnimul-hasan-taohid/SlapBook)
-[![truerng](https://github-readme-stats.vercel.app/api/pin/?username=tasnimul-hasan-taohid&repo=truerng&theme=midnight-purple&hide_border=true&title_color=e2b96f&text_color=c9d1d9&bg_color=0d1117)](https://github.com/tasnimul-hasan-taohid/truerng)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-▓▓▓▓▓▓▓░░░-white?style=flat-square&labelColor=0d1117&color=0d1117)
+![Swift & macOS Dev](https://img.shields.io/badge/Swift%20%26%20macOS%20Dev-▓▓▓▓▓▓░░░░-white?style=flat-square&labelColor=0d1117&color=0d1117)
+![AgriTech IoT Systems](https://img.shields.io/badge/AgriTech%20IoT-▓▓▓▓▓▓▓▓░░-white?style=flat-square&labelColor=0d1117&color=0d1117)
+![Business & Innovation](https://img.shields.io/badge/Business%20%26%20Innovation-▓▓▓▓▓▓▓▓▓░-white?style=flat-square&labelColor=0d1117&color=0d1117)
 
 </div>
+
+---
+
 
 ---
 
