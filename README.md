@@ -107,18 +107,12 @@ passion     : Robotics • AgriTech • STEAM Education • Legacy-driven Impact
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tasnimul-hasan-taohid&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasnimul-hasan-taohid&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117"/>
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasnimul-hasan-taohid&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tasnimul-hasan-taohid&theme=darkhub&no-frame=true&no-bg=true&column=7&title_color=ffffff" alt="Trophies"/>
-</div>
 
 ---
 
