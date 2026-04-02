@@ -31,7 +31,7 @@
 ## ⚡ About Me
 
 ```yaml
-name        : Md. Tasnimul Hasan Taohid
+name        : Md Tasnimul Hasan Taohid
 age         : 21
 location    : Murcia, Spain 🇪🇸  (home: Rajshahi, Bangladesh 🇧🇩)
 university  : DIU (Bangladesh) — Erasmus+ Exchange @ UCAM Spain
