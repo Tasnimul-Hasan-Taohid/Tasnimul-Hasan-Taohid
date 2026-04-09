@@ -34,7 +34,7 @@
 name        : Md Tasnimul Hasan Taohid
 age         : 21
 location    : Murcia, Spain 🇪🇸  (home: Rajshahi, Bangladesh 🇧🇩)
-university  : DIU (Bangladesh) — Erasmus+ Exchange @ UCAM Spain
+university  : DIU (Bangladesh) - Erasmus+ Exchange @ UCAM Spain
 major       : Innovation & Entrepreneurship
 role        : Founder & CEO @ Bortoni (Sustainable AgriTech)
 prev        : Co-Founder @ Xenon Industries (Robotics & STEAM Education)
